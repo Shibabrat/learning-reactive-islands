@@ -1,4 +1,4 @@
-## Machine learning for phase space structures in reaction dynamcis
+## Machine learning for phase space structures in reaction dynamics
 
 
 Collection of MATLAB, Python scripts, and notebooks to generate training data
