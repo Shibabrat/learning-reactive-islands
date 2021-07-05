@@ -1,0 +1,26 @@
+#OS junk files
+[Tt]thumbs.db
+.Rhistory
+.DS_Store
+__pycache__
+*.txt
+source/*.txt
+source/*.png
+source/hh2dof-tubes/*.txt
+source/hh2dof-tubes/*.png
+*.pyc
+
+.ipynb_checkpoints/
+
+tests/.ipynb_checkpoints/
+
+
+#Docs build files
+docs/.Rhistory
+docs/_build/
+docs/.vscode/
+docs/_static/
+docs/source/
+
+# package build files
+tutorials/.ipynb_checkpoints/
